@@ -1,0 +1,5 @@
+'''
+ Desarrolle una función que retorne el factorial(factorial de 4 es 1*2*3*4) de un número.
+ 
+
+'''
