@@ -10,4 +10,3 @@ numero = int (input("ingresa un numero para verificar si es perfecto "))
 
 for i in range (1,numero ):                         
      if numero % 1 == 0:
-
